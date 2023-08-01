@@ -2,8 +2,9 @@
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 #### Name: Nijeesh NJ
 #### Register number: 23010565
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+## Equipments required:
+#### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
+#### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
 SR Flip-Flop
 SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
@@ -83,7 +84,7 @@ Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 6. Verification:
    - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
-   - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
+   - Give the Input Combinations according to the Truth Table and then simulate the Output Waveform.
 
 
 
